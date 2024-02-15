@@ -1,0 +1,15 @@
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.AssemblyInfoInputs.cache
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.AssemblyInfo.cs
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.csproj.CoreCompileInputs.cache
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.sourcelink.json
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\bin\Debug\net8.0\GenericsAdvancedProblems.exe
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\bin\Debug\net8.0\GenericsAdvancedProblems.deps.json
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\bin\Debug\net8.0\GenericsAdvancedProblems.runtimeconfig.json
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\bin\Debug\net8.0\GenericsAdvancedProblems.dll
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\bin\Debug\net8.0\GenericsAdvancedProblems.pdb
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.dll
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\refint\GenericsAdvancedProblems.dll
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.pdb
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\GenericsAdvancedProblems.genruntimeconfig.cache
+C:\Programs\GenericsAdvancedProblems\GenericsAdvancedProblems\obj\Debug\net8.0\ref\GenericsAdvancedProblems.dll
